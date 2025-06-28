@@ -1,0 +1,17 @@
+# Auto Job Application Platform
+
+This Python application automatically searches for jobs, customizes your CV and cover letter using AI, and sends applications via email.
+
+## Features
+
+- Job scraping from Indeed
+- AI-powered CV customization using Hugging Face Transformers
+- Cover letter generation
+- Email automation with self-healing retries
+
+## Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/auto-job-apply.git
+   cd auto-job-apply
